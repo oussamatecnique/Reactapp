@@ -1,0 +1,16 @@
+.error
+{
+    display:block;
+    color:red;
+    font-weight: bold;
+    font-size: 40px;
+    margin : 40px
+}
+.success
+{
+    display:block;
+    color:green;
+    font-weight: bold;
+    font-size: 40px;
+    margin : 40px
+}
